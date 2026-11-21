@@ -8,7 +8,7 @@ replyneed decides which inbound texts really need a human reply (a thumbs-up, a 
 
 ## Get it
 
-Buy replyneed at https://dominares.org/tools/replyneed: one payment of $49, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python package and the replyneed command (check, rank, triage), an invented sample inbox, and the full test suite.
+Buy replyneed at https://dominares.org/tools/replyneed: one payment of $49, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python package and the replyneed command (check, rank, triage), an invented sample inbox, and the test suite.
 
 Requirements: Python 3.10 or newer, standard library only.
 
